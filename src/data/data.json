@@ -1,0 +1,328 @@
+{
+  "Header": {
+    "title": "GEC Chess Club",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+  },
+  "About": {
+    "Why": [
+      "The GECT Chess Club successfully conducted its first open-to-all chess tournament- Knight’s Quest 2023 at GEC Thrissur on May 24, 2022.",
+      "Naveen Ramadas emerged as the Champion in the Individual games and got selected to the university team along with Fiero Jain. They represented KTU in the 2022 Inter-university tournament.",
+      "Men's team - Secured championship title at APJAKTU Interzone tournament and first runner-up in E-zone tournament."
+    ],
+    "Why2": [
+      "Women's team - Secured first runner-up at the APJAKTU Interzone tournament and first place in the E-zone tournament.",
+      "Our former member, Nithin Babu represented APJAKTU at the All India Inter-University Chess Tournament 2022 and was the captain of the university team. He also played South Zone in 2018 and 2019.",
+      "Another former member, Sreehari was a lead player who also participated in the South Zone in 2018 and 2019."
+    ]
+  },
+  "Idea": {
+    "Why": [
+      "Puzzle Storm",
+      "Puzzle Streak",
+      "Mastering Openings, Middle game and Endgame",
+      "Lectures on these books",
+      "Talks on chess players",
+      "Lectures about famous players",
+      "News about Chess ( akin to a radio show )",
+      "Analysing positions in games",
+      "Beneficial challenges",
+      "Frequent chess tournaments"
+    ]
+  },
+  "Roles": {
+    "Chairperson - Dhruv Damodharan": [
+      "- Overall leadership and strategic decision-making.",
+      "- Ensure the efficient functioning of the club.",
+      "- Conducting timely club meetings and activities.",
+      "- Representing the club's interests."
+    ],
+    "Vice-chairperson - Devipriya D": [
+      "- Managing club members, ensuring smooth operation",
+      "- Maintaining inter-departmental contacts",
+      "- Filling in for the chairperson when needed.",
+      "- Ensure smooth functioning between different teams."
+    ],
+    "Club Advisor - Abhinav Venugopal, Felix Thomson": [
+      "- Providing guidance and mentorship to the club.",
+      "- Offering expertise and insights for club development."
+    ],
+    "Club Treasurer - Lakshmipriya K Kaimal": [
+      "- Managing the club's finances and budget.",
+      "- Keeping records of expenses and income.",
+      "- Coordinating fundraising efforts."
+    ],
+    "Joint Secretary (External Relations Management) - Fiero Jain": [
+      "- Managing external relations and partnerships.",
+      "- Representing the club to external organizations.",
+      "- Handling communication with alumni and potential sponsors."
+    ],
+    "Event coordinator - Sana Fathim": [
+      "- Planning and organizing club events and tournaments.",
+      "- Coordinating logistics for meetings and matches.",
+      "- Ensuring a smooth flow of club activities."
+    ],
+    "Software head - Chanchal": [
+      "Overseeing software for tournaments.",
+      "Ensuring the smooth operation of chess software during events.",
+      "Coordinating with the technical head for software-related needs."
+      ],
+      "Technical head - Pranav": [
+      "Managing the club's technical infrastructure, including the website.",
+      "Overseeing YouTube channel maintenance and content.",
+      "Ensuring technical aspects of club operations run smoothly."
+      ],
+      "Sponsorship head - Naveen Ramadas": [
+      "Identifying and securing sponsorships for the club.",
+      "Managing relationships with sponsors.",
+      "Ensuring sponsorships align with the club's goals."
+      ],
+      "Joint secretary (Multimedia management) - Deepthy Ajith K": [
+      "Overseeing timely content creation that meets club standards.",
+      "Maintaining effective communication with content creators, facilitating prompt responses and coordination.",
+      "Ensuring the club's online presence is engaging and up-to-date."
+      ],
+      "Video editors": [
+      "Creating and editing video content for the club.",
+      "Collaborating with other teams for multimedia needs."
+      ],
+      "Designer - Sreerag": [
+      "Create visually appealing posters for events and announcements.",
+      "Meet club standards regarding color palette and aesthetics."
+      ],
+      "Social media head - Nandana": [
+      "Oversee the club's social media accounts.",
+      "Promoting club activities and events online.",
+      "Ensuring factual and grammatical accuracy in produced content."
+      ],
+      "LinkedIn management - Anupama": [
+      "Ensure timely posting and updates.",
+      "Manage connections and oversee account activity."
+      ],
+      "Content head - Krishna": [
+      "Overseeing content creation and strategy.",
+      "Alumni media lead - ensuring an accurate and timely response.",
+      "Coordinating with content writers for efficient content creation."
+      ],
+      "Content writers": [
+      "Creating written content for the club.",
+      "Producing articles and promotional materials on time.",
+      "Collaborating with the content head for content direction."
+      ],
+      "Joint Secretary (Community Relations Management) - Shimon Muraly": [
+      "Managing community outreach and engagement.",
+      "Handling publicity and volunteer relations.",
+      "Fostering a positive image of the club within the community."
+      ],
+      "Publicity head - Devipriya J": [
+      "Promoting club events and activities to the community.",
+      "Measuring the effectiveness of publicity efforts."
+      ],
+      "Volunteer head - Krishnarjun": [
+      "Recruiting and coordinating volunteers for club initiatives.",
+      "Managing volunteer schedules and tasks.",
+      "Ensuring a supportive volunteer environment."
+      ],
+      "Volunteers": [
+      "Actively participating in club events and initiatives.",
+      "Assisting with various tasks as needed.",
+      "Contributing to the success of the club's community efforts."
+      ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": ["Dr. Shejin K.V (Head of the Department of Physical Education)"],
+      "name": "Faculty advisor:"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": ["Dhruv Damodharan (S4 ME)",""],
+      "name": "Chairperson:"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": ["Devipriya D (S4 EEE)",""],
+      "name": "Vice-chairperson"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": ["Lakshmipriya K Kaimal (S2 EEE)"],
+      "name": "Treasurer:"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": ["Abhinav Venugopal",
+      "Felix Thomson"],
+      "name": "Club Advisors:"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": ["Ambareesh R (S6 B.Arch)",
+      "Shimon Muraly (S4 ME)",
+      "Fiero Jain (S2 CSE)",
+      "Deepthy Ajith K (S2 ME)"],
+      "name": "Joint secretaries:"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": ["Nandana (S2 EC) [Social media head]",
+      "Naveen Ramadas (S2 CSE) [Sponsorship head]",
+      "Krishna S (S2 PE) [Content head]",
+      "Jovin Kassi (S2 CSE)",
+      "Gouri (S2 CH)",
+      "Ambareesh R (S6 B.Arch)",
+      "Fiero Jain (S2 CS)",
+      "Deepthy Ajith K (S2 ME)",
+      "Gouripriya (S2 PE)",
+      "Ghanashyam (S6 EEE)",
+      "Sreerag (S4 PE)",
+      "Sana (S2 EEE)",
+      "Pranav (S2 CSE) [Technical head]"],
+      "name": "Media Team:"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": ["Chanchal S (S4 CS) [Software head]",
+      "Devipriya J (S2 ME) [Publicity head]",
+      "Krishnarjun V V (S2 EEE) [Volunteer head]",
+      "Sana Fathim C A (S2 EEE) [Event coordinator]",
+      "Anand T P (S6 ME) [Content creator & Video editor]",
+      "Pavisankar K S (S6 ME)",
+      "Anupama Sasi (S4 ME)",
+      "Enosh S Attathara (S2 CE)"],
+      "name": "Other Executive Members"
+    }
+    
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-check-circle-o",
+      "title": "Our Goal",
+      "text": "The primary goal of the GECT Chess Club is to mould new grandmasters and invoke curiosity and raise awareness among our students. The basic qualities required for mastering this clever board game are patience, concentration, critical thinking and decision-making skills, and last but not least thorough practice and hard work. Our club aims to provide a platform to foster the same among its members."
+    },
+    {
+      "icon": "fa fa-users",
+      "title": "About Us",
+      "text": "Ever since its inception in 2023, the GECT Chess Club has proven to be a worthwhile venture taking pride in its past achievements to pave the way for a successful future. The club will function with all due support and will formally be overseen by the Physical Education Department of GEC Thrissur. The club is open to all those who are passionate and desire to learn this game."
+    },
+    {
+      "icon": "fa fa-eye",
+      "title": "Our Vision",
+      "text": "The GECT Chess Club will facilitate creative thinking, pattern recognition, strategic thinking and problem-solving abilities equipping its members to promote the transformative power of chess for lifelong personal growth. It aims to teach students how to communicate and execute complex ideas while fostering a healthy sense of sportsmanship and awareness through consistent coaching and frequent tournaments."
+    },
+    {
+      "icon": "fa fa-fire",
+      "title": "Our Mission",
+      "text": "The GECT Chess Club aims to foster interest, participation and enjoyment while promoting increased knowledge and understanding of the game. It will challenge students to think critically, encourage them to excel and provide a platform where they can be nurtured both holistically and intellectually."
+    }
+  ]
+}
