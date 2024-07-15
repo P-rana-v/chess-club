@@ -1,0 +1,92 @@
+.chess-start {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    background-image: url("../images/bgboard.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-y: auto;
+}
+
+.puzzle {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.gotopuzzle {
+    width: 40rem;
+    height: 40rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    cursor: pointer;
+}
+.gotopuzzle span {
+    color: black;
+    font-weight: 600;
+    font-size: large;
+}
+
+
+.chessClub {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+    gap: 2rem;
+}
+
+.chessClub h1 {
+    color: black;
+    font-weight: 800;
+    text-align: center;
+}
+.chessClub p {
+    color: black;
+    font-weight: 300;
+    text-align: center;
+    font-size: large;
+    width: 80%;
+}
+
+.chessClub a {
+    color: black;
+    background: transparent;
+    border: none; 
+    border-bottom: 2px solid black;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    font-size: medium;
+    font-weight: 800;
+}
+
+/* Media query for mobile phones */
+@media (max-width: 600px) {
+    .chess-start {
+        flex-direction: column;
+    }
+    .puzzle {
+        width: 100vw;
+        height: 60%;
+        margin-top: 4rem;
+    }
+    .gotopuzzle {
+        width: 30rem;
+        height: 30rem;
+    }
+    .chessClub {
+        width: 100%;
+        height: 50%;
+        justify-content: start;
+    }
+}
