@@ -1,6 +1,6 @@
 {
   "Header": {
-    "title": "GEC Chess Club",
+    "title": "GECT CHESS CLUB",
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
@@ -130,51 +130,82 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Click to view",
+      "largeImage": "img/portfolio/img1.jpeg",
+      "smallImage": "img/portfolio/img1.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Click to view",
+      "largeImage": "img/portfolio/img2.jpeg",
+      "smallImage": "img/portfolio/img2.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Click to view",
+      "largeImage": "img/portfolio/img3.jpeg",
+      "smallImage": "img/portfolio/img3.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Click to view",
+      "largeImage": "img/portfolio/img4.jpeg",
+      "smallImage": "img/portfolio/img4.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Click to view",
+      "largeImage": "img/portfolio/img5.jpeg",
+      "smallImage": "img/portfolio/img5.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Click to view",
+      "largeImage": "img/portfolio/img6.jpeg",
+      "smallImage": "img/portfolio/img6.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "Click to view",
+      "largeImage": "img/portfolio/img7.jpeg",
+      "smallImage": "img/portfolio/img7.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "Click to view",
+      "largeImage": "img/portfolio/img8.jpeg",
+      "smallImage": "img/portfolio/img8.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Click to view",
+      "largeImage": "img/portfolio/img9.jpeg",
+      "smallImage": "img/portfolio/img9.jpeg"
+    },
+    {
+      "title": "Click to view",
+      "largeImage": "img/portfolio/img10.jpeg",
+      "smallImage": "img/portfolio/img10.jpeg"
+    },
+    {
+      "title": "Click to view",
+      "largeImage": "img/portfolio/img11.jpeg",
+      "smallImage": "img/portfolio/img11.jpeg"
+    },
+    {
+      "title": "Click to view",
+      "largeImage": "img/portfolio/img12.jpeg",
+      "smallImage": "img/portfolio/img12.jpeg"
+    },
+    {
+      "title": "Click to view",
+      "largeImage": "img/portfolio/img13.jpeg",
+      "smallImage": "img/portfolio/img13.jpeg"
+    },
+    {
+      "title": "Click to view",
+      "largeImage": "img/portfolio/img14.jpg",
+      "smallImage": "img/portfolio/img14.jpg"
+    },
+    {
+      "title": "Click to view",
+      "largeImage": "img/portfolio/img15.jpg",
+      "smallImage": "img/portfolio/img15.jpg"
     }
   ],
+
   "Services": [
     {
       "icon": "fa fa-wordpress",
@@ -323,6 +354,23 @@
       "icon": "fa fa-fire",
       "title": "Our Mission",
       "text": "The GECT Chess Club aims to foster interest, participation and enjoyment while promoting increased knowledge and understanding of the game. It will challenge students to think critically, encourage them to excel and provide a platform where they can be nurtured both holistically and intellectually."
+    }
+  ],
+  "winners": [
+    {
+      "name": "Anirudh P"
+    },
+    {
+      "name": "Henock Peter"
+    },
+    {
+      "name": "Anirudh P"
+    },
+    {
+      "name": "Krishnaprasad PP"
+    },
+    {
+      "name": "Anirudh P"
     }
   ]
 }
