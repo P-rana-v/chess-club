@@ -37,7 +37,7 @@ export const Header = (props) => {
             {props.data && 
               <div className="chessClub">
                 <h1>{props.data.title}</h1>
-                <p>{props.data.paragraph}</p>
+                <p>Strategize. Compete. Triumph.</p>
                 <a href="#features" >Learn More</a>
               </div>
             }

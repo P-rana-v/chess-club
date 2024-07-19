@@ -91,11 +91,11 @@ hr {
   font-family: "Lato", sans-serif;
   text-transform: uppercase;
   color: #555;
-  font-size: 15px;
+  font-size: 13px;
   font-weight: 400;
   padding: 8px 2px;
   border-radius: 0;
-  margin: 9px 20px 0;
+  margin: 9px 10px 0;
 }
 #menu.navbar-default .navbar-nav > li > a:after {
   display: block;
@@ -445,6 +445,9 @@ a:focus,
   margin-bottom: 40px;
 }
 /* Portfolio Section */
+.cover {
+  background-size: cover;
+}
 #portfolio {
   padding: 100px 0;
 }

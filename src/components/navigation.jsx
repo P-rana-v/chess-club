@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 export const Navigation = (props) => {
   return (
@@ -18,7 +19,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            GEC CHESS CLUB
+            GECT CHESS CLUB
           </a>{" "}
         </div>
 
@@ -27,6 +28,11 @@ export const Navigation = (props) => {
           id="bs-example-navbar-collapse-1"
         >
           <ul className="nav navbar-nav navbar-right">
+          <li>
+              <Link className="page-scroll" to="/tournament">
+                Tournaments
+              </Link>
+            </li>
             <li>
               <a href="#features" className="page-scroll">
                 About Us

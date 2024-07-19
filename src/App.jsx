@@ -13,11 +13,31 @@ import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
 import { Roles } from "./components/roles";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Tournament from "./components/Tournament";
+import { HelmetProvider, Helmet } from 'react-helmet-async';
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
   speedAsDuration: true,
 });
+
+const Home = ({ data }) => (
+  <div>
+    <Helmet>
+        <title>GECT Chess Club</title>
+    </Helmet>
+    <Navigation />
+    <Header data={data.Header} />
+    <Features data={data.Features} />
+    <About data={data.About} />
+    <Gallery data={data.Gallery} />
+    <Idea data={data.Idea} />
+    <Testimonials data={data.Testimonials} />
+    <Roles data={data.Roles} />
+    <Contact data={data.Contact} />
+  </div>
+);
 
 const App = () => {
   const [landingPageData, setLandingPageData] = useState({});
@@ -26,17 +46,15 @@ const App = () => {
   }, []);
 
   return (
-    <div>
-      <Navigation />
-      <Header data={landingPageData.Header} />
-      <Features data={landingPageData.Features} />
-      <About data={landingPageData.About} />
-      <Gallery data={landingPageData.Gallery} />
-      <Idea data={landingPageData.Idea} />
-      <Testimonials data={landingPageData.Testimonials} />
-      <Roles data={landingPageData.Roles} />
-      <Contact data={landingPageData.Contact} />
-    </div>
+    <HelmetProvider>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Home data={landingPageData} />} />
+          
+          <Route path="/tournament" element={<Tournament />} />
+        </Routes>
+      </BrowserRouter>
+    </HelmetProvider>
   );
 };
 
